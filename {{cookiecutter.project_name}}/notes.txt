@@ -1,0 +1,9 @@
+Session Notes
+Researcher: {{cookiecutter.name}}
+
+Project: {{cookiecutter.project_slug}}
+Project Description: {{cookiecutter.project_short_description}}
+Session id: {{cookiecutter.session_id}}
+Contact: Tweet me @{{cookiecutter.twitter_handle}}
+Lab: {{cookiecutter.lab}}
+
