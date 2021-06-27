@@ -1,0 +1,19 @@
+{
+    "name": "Phil",
+    "email": "phil@example.com",
+    "twitter_handle": "zoldello",
+    "github_username": "zoldello",
+    "project_name": "Session",
+    "lab": "Tan Lab",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a NWB and DataJoint Pipeline to process mouse location preference-experiments.",
+    "pypi_username": "{{ cookiecutter.github_username }}",
+    "version": "0.1.0",
+    "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"],
+    "database_host": "tutorial-db.datajoint.io",
+    "database_user" : "marikelreimer",
+    "database_password": "AreRA3c5yc",
+    "subject_id":  "Mouse_5025",
+    "session_id": "Session_22",
+    "experiment_path": "C:/Users/meowm/OneDrive/DataWarehouse/Experimenter1"
+}
