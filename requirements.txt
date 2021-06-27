@@ -1,0 +1,7 @@
+cookiecutter>=1.4.0
+pynwb>=1.51.
+nwbwidgets>=0.7.0
+datajoint>=0.13.2
+h5py>=3.3.0
+numpy>=1.21.0
+matplotlib>=3.4.2
